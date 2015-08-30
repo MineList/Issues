@@ -7,6 +7,10 @@
 1. 개인적으로 [연락](mailto:ryush00@gmail.com)해 주세요.
 2. **절대로** 공개적으로 신고하지 마세요.
 
+## 비밀번호 분실
+비밀번호를 분실하셨다면 [이곳](https://minelist.kr/users/password/new)에서 찾으실 수 있습니다.
+
 ## 신고 방법
 
 이슈는 [이슈 트래커](https://github.com/MineList/Issues/issues)에 위치한 [New issue](https://github.com/MineList/Issues/issues/new) 버튼을 통해 작성하실 수 있습니다.
+
