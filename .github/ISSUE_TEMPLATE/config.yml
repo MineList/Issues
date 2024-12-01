@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 마인리스트 고객센터
+    url: https://support.minelist.kr
+    about: 마인리스트 사용 중 발생한 문제는 이곳을 통해 문의해 주세요.
+  - name: Security Bug Bounty
+    url: https://bugcamp.io/programs/4f41604ba0d60125bd15d0ad5f90c27c
+    about: 보안 취약점에 대한 신고는 이곳으로 신고해 주세요.
